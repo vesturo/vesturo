@@ -28,6 +28,3 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vesturo&show_icons=true&theme=radical"/>
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vesturo&show_icons=true" />
-</a>
