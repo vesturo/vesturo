@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.JS**
 
-- 🌱 I’m currently working with [Westcoast Roleplay](https://discord.gg/westcoast) as Development Coordinator | Developer UI / UX
+- 🌱 I’m currently working with [MidnightV Roleplay](https://MVRP.eu) as Development Coordinator | Developer UI / UX
 
 - 👨‍💻 All of my projects are available at [https://studio-v.net](https://studio-v.net)
 
