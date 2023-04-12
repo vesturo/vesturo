@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.JS**
 
-- 🌱 I’m currently working with [RESTART Roleplay](https://restart-rp.de) as Project Coordinator | Developer UI / UX
+- 🌱 I’m currently working with [ZESAR Roleplay](https://discord.gg/zesar) as DEVELOPMENT COORDINATOR | Developer UI / UX
 
 - 👨‍💻 All of my projects are available at [https://studio-v.net](https://studio-v.net)
 
