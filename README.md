@@ -3,7 +3,7 @@
 <h3 align="center">A passionate UI/UX Developer from Germany</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vesturo&label=Profile%20views&color=0e75b6&style=flat" alt="vesturo" /> </p>
 
-🌱 I’m currently learning **(Next.js)[https://nextjs.org/]**
+🌱 I’m currently learning **[Next.js](https://nextjs.org/)**
 
 🌱 My current Projects:
 * DevOps Coordinator with different small to Medium sized GTA RP Communitys
