@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">A passionate UI/UX Developer from Germany</h3>
-<img src="https://vesturo.eu/assets/profilepic.png" alt="Vesturo Image" />
+<p align="center"> <img src=""https://vesturo.eu/assets/profilepic.png" alt="vesturo" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vesturo&label=Profile%20views&color=0e75b6&style=flat" alt="vesturo" /> </p>
 
 - 🌱 I’m currently learning **React**
