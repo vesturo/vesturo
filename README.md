@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm V</h1>
+<h1 align="center">Hi! I'm V, A DIGITAL CONTENT CREATOR, DEVELOPER & VIRTUAL VJ</h1>
 
 <p align="center"> <img src="https://vesturo.eu/assets/profilepic.png" alt="vesturo" height="200" /> <img src="https://vesturo.eu/assets/21517a17-8bed-4721-922a-a2aebee6726e_bild_2023-08-17_223052377.png" alt="vesturo" height="200" /> </p>
 
-<h2 align="center">DIGITAL CONTENT CREATOR, DEVELOPER, VIRTUAL VJ</h2>
 
 🌱 I’m currently learning **[Next.js](https://nextjs.org/), a React based Framework for web applications**
 
