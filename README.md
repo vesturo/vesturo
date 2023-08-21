@@ -3,16 +3,16 @@
 <h3 align="center">A passionate UI/UX Developer from Germany</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vesturo&label=Profile%20views&color=0e75b6&style=flat" alt="vesturo" /> </p>
 
-- 🌱 I’m currently learning **React**
+🌱 I’m currently learning **(Next.js)[https://nextjs.org/]**
 
 🌱 My current Projects:
 * DevOps Coordinator with different small to Medium sized GTA RP Communitys
 * Developer UI / UX
 * Comission based VRChat world creator
 
-- 💬 Ask me about **Bootstrap 5!**
+💬 Ask me about **Bootstrap 5!**
 
-- 📫 How to reach me **Robert@studio-v.net**
+📫 How to reach me **Robert@studio-v.net**
 
 <h3 align="left">My Statistics:</h3>
 
