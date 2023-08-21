@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently working with Different GTA RP Communitys as DevOps Coordinator | Developer UI / UX as well as Comission based VRChat projects
 
-- 👨‍💻 All of my projects are available at [https://studio-v.net](https://studio-v.net)
-
 - 💬 Ask me about **Bootstrap 5!**
 
 - 📫 How to reach me **Robert@studio-v.net**
