@@ -14,7 +14,7 @@
 
 💬 Ask me about **Bootstrap 5!**
 
-📫 How to reach me **Robert@studio-v.net**
+📫 How to reach me: **Robert@studio-v.net**
 
 <h3 align="left">My Statistics:</h3>
 
