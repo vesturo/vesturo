@@ -16,9 +16,6 @@
 
 📫 How to reach me: **Robert@studio-v.net**
 
-<h3 align="left">My Statistics:</h3>
-
-| <a href="https://github.com/vesturo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vesturo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vesturo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesturo&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
@@ -27,3 +24,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vesturo&label=Profile%20views&color=0e75b6&style=flat" alt="vesturo" /> </p>
+
+<h3 align="left">My Statistics:</h3>
+
+| <a href="https://github.com/vesturo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vesturo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vesturo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesturo&layout=compact&theme=radical&hide_border=true" /></a> |
