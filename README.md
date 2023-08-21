@@ -9,7 +9,7 @@
 🌱 My current Personal & Professional Projects:
 * DevOps Coordinator with different small to Medium sized GTA RP Communitys
 * Developer UI / UX
-* Comission based VRChat world creator
+* VRChat Community Developer working with UdonSharp, Blender, Unity & Custom Shaders
 * Virtual event Coordinator for [Myriad](https://myriad.dance/)
 
 💬 Ask me about **Bootstrap 5!**
