@@ -12,7 +12,7 @@
 * Main event Coordinator for [Myriad](https://myriad.dance/), a VRChat based Virtual Event community
 * Self-Employed UI/UX Developer with [Studio 5](studio-v.net)
 
-💬 Ask me about **Bootstrap 5!**
+💬 Ask me about **Discord Bots!**
 
 📫 How to reach me: **Robert@studio-v.net**
 
