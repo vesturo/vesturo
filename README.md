@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm V</h1>
-<p align="center"> <img src="https://vesturo.eu/assets/profilepic.png" alt="vesturo" width="200" /> <img src="https://vesturo.eu/assets/21517a17-8bed-4721-922a-a2aebee6726e_bild_2023-08-17_223052377.webp" alt="vesturo" width="300" /> </p>
+<p align="center"> <img src="https://vesturo.eu/assets/profilepic.png" alt="vesturo" width="200" /> <img src="https://vesturo.eu/assets/21517a17-8bed-4721-922a-a2aebee6726e_bild_2023-08-17_223052377.png" alt="vesturo" width="300" /> </p>
 <h3 align="center">A passionate UI/UX Developer from Germany</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vesturo&label=Profile%20views&color=0e75b6&style=flat" alt="vesturo" /> </p>
 
