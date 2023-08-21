@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🌱 My current Projects:
+🌱 My current Projects:
 * DevOps Coordinator with different small to Medium sized GTA RP Communitys
 * Developer UI / UX
 * Comission based VRChat world creator
