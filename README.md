@@ -5,7 +5,10 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🌱 I’m currently working with Different GTA RP Communitys as DevOps Coordinator | Developer UI / UX as well as Comission based VRChat projects
+- 🌱 My current Projects:
+- * DevOps Coordinator with different GTA RP Communitys
+- * Developer UI / UX
+- * Comission based VRChat world creator
 
 - 💬 Ask me about **Bootstrap 5!**
 
