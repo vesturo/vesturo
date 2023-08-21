@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vesturo&label=Profile%20views&color=0e75b6&style=flat" alt="vesturo" /> </p>
 
-- 🌱 I’m currently learning **Vue.JS**
+- 🌱 I’m currently learning **React**
 
-- 🌱 I’m currently working with [ZESAR Roleplay](https://discord.gg/zesar) as DevOps Coordinator | Developer UI / UX
+- 🌱 I’m currently working with Different GTA RP Communitys as DevOps Coordinator | Developer UI / UX as well as Comission based VRChat projects
 
 - 👨‍💻 All of my projects are available at [https://studio-v.net](https://studio-v.net)
 
