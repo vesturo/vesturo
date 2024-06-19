@@ -9,8 +9,8 @@
 🌱 My current Personal & Professional Projects:
 * DevOps Coordinator with different small to Medium sized GTA RP Communitys
 * VRChat Community Developer working with [UdonSharp](https://github.com/vrchat-community/UdonSharp), [Blender](https://www.blender.org/), [Unity](https://unity.com/) & [Custom Shaders](https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html)
-* Main event Coordinator for [Myriad](https://myriad.dance/), a VRChat based Virtual Event community
-* Self-Employed UI/UX Developer with [Studio 5](studio-v.net)
+* Main event Coordinator for the Virtual Reality Communitys [Myriad](https://myriad.dance/) & [Gathering](https://tgvr.org/)
+* Self-Employed UI/UX Developer with Studio 5
 
 💬 Ask me about **Discord Bots!**
 
