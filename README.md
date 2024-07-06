@@ -8,8 +8,8 @@
         <li>Main event Coordinator for the Virtual Reality Communitys <a href="https://myriad.dance/">Myriad</a> & <a href="https://tgvr.org/">Gathering</a></li>
         <li>Self-Employed Full-time UI/UX Developer & Environmental Artist</li>
       </ul>
-      <p>💬 Ask me about <strong>Discord Bots!</strong></p>
-      <p>📫 How to reach me: <strong>Robert@studio-v.net</strong></p>
+      <p>💬 Learn more about me on my <a href="https://vesturo.eu/#about">Website</a></strong></p>
+      <p>📫 How to reach me: <strong>R<a href="https://x.com/ItsVeeVR">Twtitter / X</a></strong></p>
 
 
 # 💻 Tech Stack:
