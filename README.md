@@ -4,7 +4,7 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 30%; vertical-align: top;">
-      <img src="https://vesturo.eu/assets/img/me.jpg" alt="vesturo" height="300" style="max-width: 100%;">
+      <img src="https://vesturo.eu/assets/img/me.jpg" alt="vesturo" height="300" width="243.406" style="max-width: 100%;">
     </td>
     <td style="width: 70%; vertical-align: top;">
       <p>🌱 I’m currently learning <strong><a href="https://nextjs.org/">Next.js</a>, a React based Framework for web applications</strong></p>
