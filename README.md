@@ -1,6 +1,6 @@
-<h2 align="center">Hi! I'm V, a Digital Content Creator & UI / UX Developer</h2>
+<h2 align="center">Hi! I'm Vee, a Digital Content Creator, UI / UX Developer & Environmental Artist</h2>
 <p>ㅤ </p>
-<p>🌱 I’m currently learning <strong><a href="https://nextjs.org/">Next.js</a>, a React based Framework for web applications</strong></p>
+<p>🌱 I’m currently learning <strong><a href="https://fastify.dev/">Fastify</a>, a Fast and low overhead web framework, for Node.js</strong></p>
       <p>🌱 My current Personal & Professional Projects:</p>
       <ul>
         <li>DevOps Coordinator with different small to Medium sized GTA RP Communitys</li>
