@@ -8,8 +8,8 @@
         <li>Main event Coordinator for the Virtual Reality Communitys <a href="https://myriad.dance/">Myriad</a> & <a href="https://tgvr.org/">Gathering</a></li>
         <li>Self-Employed Full-time UI/UX Developer & Environmental Artist</li>
       </ul>
-      <p>💬 Learn more about me on my <a href="https://vesturo.eu/#about">Website</a></strong></p>
-      <p>📫 How to reach me: <strong>R<a href="https://x.com/ItsVeeVR">Twtitter / X</a></strong></p>
+      <p>💬 Learn more about me on my <strong><a href="https://vesturo.eu/#about">Website</a></strong></p>
+      <p>📫 How to reach me: <strong><a href="https://x.com/ItsVeeVR" target="_blank">Twitter / X</a></strong></p>
 
 
 # 💻 Tech Stack:
