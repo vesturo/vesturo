@@ -1,6 +1,6 @@
 <h2 align="center">Hi! I'm V, a Digital Content Creator & UI / UX Developer</h2>
 <p>ㅤ </p>
-<p align="center"> <img src="https://vesturo.eu/assets/profilepic.png" alt="vesturo" height="200" /> <img src="https://vesturo.eu/assets/21517a17-8bed-4721-922a-a2aebee6726e_bild_2023-08-17_223052377.png" alt="vesturo" height="200" /> </p>
+<p align="center"> <img src="[https://vesturo.eu/assets/profilepic.png](https://vesturo.eu/assets/img/me.jpg)" alt="vesturo" height="200" /> </p>
 
 <h2>ㅤ </h2>
 
