@@ -2,7 +2,7 @@
 <p>🌱 I’m currently learning <strong><a href="https://fastify.dev/" target="_blank">Fastify</a>, a Fast and low overhead web framework for Node.js</strong></p>
       <p>🌱 My current Personal & Professional Projects:</p>
       <ul>
-        <li>My Project related <a href="https://github.com/vesturo/VRC-Scripts-by-Vee" >Repository</a>, where i collect useful edge-case scripts</li>
+        <li>My  <a href="https://github.com/vesturo/VRC-Scripts-by-Vee" >Project related Repository</a>, where i collect useful edge-case scripts for other VRChat Developers</li>
         <li>VRChat Community Developer working with <a href="https://github.com/vrchat-community/UdonSharp" target="_blank">UdonSharp</a>, <a href="https://www.blender.org/" target="_blank">Blender</a>, <a href="https://unity.com/" target="_blank">Unity</a> & <a href="https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html">Custom Shaders</a></li>
         <li>Main event Coordinator for the Virtual Reality Communitys <a href="https://myriad.dance/" target="_blank">Myriad</a> & <a href="https://tgvr.org/" target="_blank">Gathering</a></li>
         <li>Self-Employed Full-time UI/UX Developer & Environmental Artist</li>
