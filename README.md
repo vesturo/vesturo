@@ -1,23 +1,23 @@
 <h2 align="center">Hi! I'm V, a Digital Content Creator & UI / UX Developer</h2>
 <p>ㅤ </p>
-<table>
-  <tr>
-    <td><img src="https://vesturo.eu/assets/img/me.jpg" alt="vesturo" height="200"></td>
-    <td>
-      🌱 I’m currently learning **[Next.js](https://nextjs.org/), a React based Framework for web applications**
+<div style="display: flex; align-items: center;">
+  <img src="https://vesturo.eu/assets/img/me.jpg" alt="vesturo" height="200" style="margin-right: 20px;">
+  <div>
+    🌱 I’m currently learning **<a href="https://nextjs.org/">Next.js</a>, a React based Framework for web applications**
 
-      🌱 My current Personal & Professional Projects:
-      * DevOps Coordinator with different small to Medium sized GTA RP Communitys
-      * VRChat Community Developer working with [UdonSharp](https://github.com/vrchat-community/UdonSharp), [Blender](https://www.blender.org/), [Unity](https://unity.com/) & [Custom Shaders](https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html)
-      * Main event Coordinator for the Virtual Reality Communitys [Myriad](https://myriad.dance/) & [Gathering](https://tgvr.org/)
-      * Self-Employed Full-time UI/UX Developer & Environmental Artist
+    🌱 My current Personal & Professional Projects:
+    <ul>
+      <li>DevOps Coordinator with different small to Medium sized GTA RP Communitys</li>
+      <li>VRChat Community Developer working with <a href="https://github.com/vrchat-community/UdonSharp">UdonSharp</a>, <a href="https://www.blender.org/">Blender</a>, <a href="https://unity.com/">Unity</a> & <a href="https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html">Custom Shaders</a></li>
+      <li>Main event Coordinator for the Virtual Reality Communitys <a href="https://myriad.dance/">Myriad</a> & <a href="https://tgvr.org/">Gathering</a></li>
+      <li>Self-Employed Full-time UI/UX Developer & Environmental Artist</li>
+    </ul>
+    💬 Ask me about **Discord Bots!**
 
-      💬 Ask me about **Discord Bots!**
+    📫 How to reach me: **Robert@studio-v.net**
+  </div>
+</div>
 
-      📫 How to reach me: **Robert@studio-v.net**
-    </td>
-  </tr>
-</table>
 
 
 <h3 align="left">Languages and Tools:</h3>
