@@ -1,9 +1,11 @@
 <h2 align="center">Hi! I'm V, a Digital Content Creator & UI / UX Developer</h2>
 <p>ㅤ </p>
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td><img src="https://vesturo.eu/assets/img/me.jpg" alt="vesturo" height="200"></td>
-    <td>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="https://vesturo.eu/assets/img/me.jpg" alt="vesturo" height="200" style="max-width: 100%;">
+    </td>
+    <td style="width: 70%; vertical-align: top;">
       <p>🌱 I’m currently learning <strong><a href="https://nextjs.org/">Next.js</a>, a React based Framework for web applications</strong></p>
       <p>🌱 My current Personal & Professional Projects:</p>
       <ul>
@@ -17,8 +19,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 
