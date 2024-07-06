@@ -1,22 +1,21 @@
 <h2 align="center">Hi! I'm V, a Digital Content Creator & UI / UX Developer</h2>
 <p>ㅤ </p>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <img src="https://vesturo.eu/assets/img/me.jpg" alt="vesturo" height="200" style="margin-right: 20px;">
   <div>
-    🌱 I’m currently learning **<a href="https://nextjs.org/">Next.js</a>, a React based Framework for web applications**
-
-    🌱 My current Personal & Professional Projects:
+    <p>🌱 I’m currently learning <strong><a href="https://nextjs.org/">Next.js</a>, a React based Framework for web applications</strong></p>
+    <p>🌱 My current Personal & Professional Projects:</p>
     <ul>
       <li>DevOps Coordinator with different small to Medium sized GTA RP Communitys</li>
       <li>VRChat Community Developer working with <a href="https://github.com/vrchat-community/UdonSharp">UdonSharp</a>, <a href="https://www.blender.org/">Blender</a>, <a href="https://unity.com/">Unity</a> & <a href="https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html">Custom Shaders</a></li>
       <li>Main event Coordinator for the Virtual Reality Communitys <a href="https://myriad.dance/">Myriad</a> & <a href="https://tgvr.org/">Gathering</a></li>
       <li>Self-Employed Full-time UI/UX Developer & Environmental Artist</li>
     </ul>
-    💬 Ask me about **Discord Bots!**
-
-    📫 How to reach me: **Robert@studio-v.net**
+    <p>💬 Ask me about <strong>Discord Bots!</strong></p>
+    <p>📫 How to reach me: <strong>Robert@studio-v.net</strong></p>
   </div>
 </div>
+
 
 
 
