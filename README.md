@@ -1,14 +1,14 @@
 <h2 align="center">Hi! I'm Vee, a Digital Content Creator, UI / UX Developer & Environmental Artist</h2>
 <p>ㅤ </p>
-<p>🌱 I’m currently learning <strong><a href="https://fastify.dev/">Fastify</a>, a Fast and low overhead web framework for Node.js</strong></p>
+<p>🌱 I’m currently learning <strong><a href="https://fastify.dev/" target="_blank">Fastify</a>, a Fast and low overhead web framework for Node.js</strong></p>
       <p>🌱 My current Personal & Professional Projects:</p>
       <ul>
         <li>DevOps Coordinator with different small to Medium sized GTA RP Communitys</li>
-        <li>VRChat Community Developer working with <a href="https://github.com/vrchat-community/UdonSharp">UdonSharp</a>, <a href="https://www.blender.org/">Blender</a>, <a href="https://unity.com/">Unity</a> & <a href="https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html">Custom Shaders</a></li>
-        <li>Main event Coordinator for the Virtual Reality Communitys <a href="https://myriad.dance/">Myriad</a> & <a href="https://tgvr.org/">Gathering</a></li>
+        <li>VRChat Community Developer working with <a href="https://github.com/vrchat-community/UdonSharp" target="_blank">UdonSharp</a>, <a href="https://www.blender.org/" target="_blank">Blender</a>, <a href="https://unity.com/" target="_blank">Unity</a> & <a href="https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html">Custom Shaders</a></li>
+        <li>Main event Coordinator for the Virtual Reality Communitys <a href="https://myriad.dance/" target="_blank">Myriad</a> & <a href="https://tgvr.org/" target="_blank">Gathering</a></li>
         <li>Self-Employed Full-time UI/UX Developer & Environmental Artist</li>
       </ul>
-      <p>💬 Learn more about me on my <strong><a href="https://vesturo.eu/#about">Website</a></strong></p>
+      <p>💬 Learn more about me on my <strong><a href="https://vesturo.eu/#about" target="_blank">Website</a></strong></p>
       <p>📫 How to reach me: <strong><a href="https://x.com/ItsVeeVR" target="_blank">Twitter / X</a></strong></p>
 
 
