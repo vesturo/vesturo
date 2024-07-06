@@ -1,5 +1,5 @@
-![Background](https://vesturo.eu/assets/img/bg.jpg)
 <h2 align="center">Hi! I'm Vee, a Digital Content Creator, UI / UX Developer & Environmental Artist</h2>
+![Background](https://vesturo.eu/assets/img/bg.jpg)
 <p>🌱 I’m currently learning <strong><a href="https://fastify.dev/" target="_blank">Fastify</a>, a Fast and low overhead web framework for Node.js</strong></p>
       <p>🌱 My current Personal & Professional Projects:</p>
       <ul>
