@@ -1,6 +1,5 @@
 <h2 align="center">Hi! I'm V, a Digital Content Creator & UI / UX Developer</h2>
 <p>ㅤ </p>
-<div align="center">
 <p>🌱 I’m currently learning <strong><a href="https://nextjs.org/">Next.js</a>, a React based Framework for web applications</strong></p>
       <p>🌱 My current Personal & Professional Projects:</p>
       <ul>
@@ -11,7 +10,6 @@
       </ul>
       <p>💬 Ask me about <strong>Discord Bots!</strong></p>
       <p>📫 How to reach me: <strong>Robert@studio-v.net</strong></p>
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
