@@ -2,7 +2,6 @@
 <p>ㅤ </p>
 <p align="center"> <img src="https://vesturo.eu/assets/img/me.jpg" alt="vesturo" height="500" /> </p>
 
-<h2>ㅤ </h2>
 
 🌱 I’m currently learning **[Next.js](https://nextjs.org/), a React based Framework for web applications**
 
