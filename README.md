@@ -1,5 +1,3 @@
-# Hi! I'm Vee 👋
-
 <div align="center">
   <img src="https://vesturo.eu/assets/header_backdrop.png" alt="Banner" style="border-radius: 10px; width: 100%;"/>
 </div>
