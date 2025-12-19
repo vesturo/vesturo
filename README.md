@@ -1,7 +1,7 @@
 # Hi! I'm Vee 👋
 
 <div align="center">
-  <img src="https://vesturo.eu/assets/img/bg.jpg" alt="Banner" style="border-radius: 10px; width: 100%;"/>
+  <img src="https://vesturo.eu/assets/header_backdrop.png" alt="Banner" style="border-radius: 10px; width: 100%;"/>
 </div>
 
 <div align="center">
