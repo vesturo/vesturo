@@ -31,7 +31,7 @@ I'm a full-stack developer and environmental artist who spends most of my time o
 
 ### ⚡ What I Do
 
-- **Event Infrastructure**: Building scalable systems for massive VR gatherings (Gathering, Myriad)
+- **Event Infrastructure**: Building scalable systems for massive VR gatherings (Gathering, VirtuaFest, GearFest & more)
 - **VRChat Development**: Creating worlds, tools, and experiences with UdonSharp, Unity, and custom shaders
 - **Full-Stack Development**: Currently diving deep into Fastify for high-performance web services
 - **Environmental Art**: Crafting immersive virtual spaces that bring communities together
