@@ -101,10 +101,6 @@ Project lead for a network synchronization tool designed for VRChat communities.
 
 ## 💬 Let's Connect
 
-I'm usually "on call" 24/7 working on events and infrastructure. Not great at the "chat" part of VRChat since I'm usually elbow-deep in systems management, but feel free to reach out!
-
-**Fair warning**: I'm dense as a brick when it comes to flirting, and I might drop everything without warning if production goes sideways. 
-
 - 🐦 Twitter/X: [@ItsVeeVR](https://x.com/ItsVeeVR)
 - 🌐 Website: [vesturo.eu](https://vesturo.eu)
 - 💼 Company: [VirtuaLabs](https://virtualabs.cloud)
@@ -130,14 +126,6 @@ Building tools and experiences that bring people together in virtual spaces. Cur
 
 <div align="center">
   
-  **⚠️ Important Notes**
-  
-  • Not interested in poly/open relationships  
-  • Please ask before touching (consent matters even in VR!)  
-  • I might vanish mid-conversation if servers catch fire  
-  
-  ---
-  
-  <sub>Built with 💜 somewhere between reality and virtuality</sub>
+  <sub>Built with <3 somewhere between reality and virtuality</sub>
   
 </div>
