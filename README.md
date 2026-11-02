@@ -28,12 +28,14 @@ Somewhere between those two things is where you'll usually find me.
 
 Some things I make are meant to haunt people. Others are meant to fill a virtual room with music. These are a few of the projects and moments that made it out of my head and into the world.
 
-### V//H//S — The Corrupted Tape
+### V//H//S - The Corrupted Tape
 *Playable prototype · continuing development*
 
 My little love letter to the things hiding in the static. An analog-horror experience for VRChat, built around an unsettling camera system, reactive environments, spatial audio, and the feeling that something is watching from just outside the frame.
 
-The first prototype reached **almost 25,000 visits in a single weekend**. Since then I've kept exploring what the experience can become across PCVR and mobile, without letting the technical machinery get in the way of the atmosphere.
+The first prototype reached **almost 25,000 visits in a single week**. Since then I've kept exploring what the experience can become across PCVR and mobile, without letting the technical machinery get in the way of the atmosphere.
+
+**Links:** [Explore the VRChat world](https://vrchat.com/home/world/wrld_a0a57d5b-9bd5-4e94-aa50-8187c4784be6/info) · [Independent world recommendation](https://note.com/tokiwailm/n/n72c9dc343f7f?hl=en)
 
 ### VirtuaMotion: teaching a stage to move
 *Original technology · production-proven · ongoing development*
@@ -42,13 +44,15 @@ Some ideas refuse to stay small. Others begin with being just a little too stubb
 
 **VirtuaMotion** is my own motion-capture and virtual performance system, born from experiments around *Gathering: Beginnings* in 2024 and a fascination with what live performance could become inside VRChat.
 
-The journey actually started with **ShaderMotion**. I loved the possibilities it opened up, but found myself increasingly frustrated by its limitations and the things I wished it could do differently. What began as an attempt to improve upon an existing idea slowly turned into something much bigger. Eventually, **VirtuaMotion was rewritten entirely from scratch, with none of ShaderMotion's original code remaining.**
+The journey actually started with **[ShaderMotion](https://github.com/CuteWaterBeary/ShaderMotion)**. I loved the possibilities it opened up, but found myself increasingly frustrated by its limitations and the things I wished it could do differently. What began as an attempt to improve upon an existing idea slowly turned into something much bigger. Eventually, **VirtuaMotion was rewritten entirely from scratch, with none of ShaderMotion's original code remaining.**
 
 The vision, however, remained the same: moving beyond performers existing on a screen somewhere outside the world. What if the performance itself could become part of the environment? What if movement, music, and virtual space could exist together, without the boundaries of a traditional stage?
 
 An early prototype found its way onto the **Gear Fest 2026** stage before **VirtuaMotion reached its first full production deployment at SANCTUM in April 2026**. After years of tinkering, rebuilding, and occasionally questioning my own sanity, watching something that started as a frustration with an existing tool become part of a real show was a little surreal.
 
 It's still evolving, with ongoing work exploring both live motion capture and pre-produced performances. There's a lot more I want to do with it, and I have a feeling I've only scratched the surface.
+
+**Links:** [SANCTUM performance clip](https://x.com/SANCTUMVR/status/2110421907522662581) · [SANCTUM production credits](https://www.sanctumvr.com/contributors) · [Official showcase video](https://youtu.be/2JMFxJUS0Oc)
 
 ### SANCTUM: where the stage comes alive
 *Immersive live production · past collaboration*
@@ -63,6 +67,8 @@ There's something uniquely satisfying about the invisible machinery behind a per
 
 SANCTUM gave me the opportunity to help turn those ideas into moments experienced by an actual audience. And that's something I'm genuinely proud to have been part of.
 
+**Links:** [Official contributor credits](https://www.sanctumvr.com/contributors) · [SANCTUM performance clip](https://x.com/SANCTUMVR/status/2110421907522662581)
+
 ### Gear Fest: keeping the gears turning
 *Stage Management, DevOps & Event Operations · involved since 2024 · award-winning festival*
 
@@ -72,7 +78,9 @@ I've been part of **Gear Fest's Stage Management, DevOps & Event Operations team
 
 In **2026**, we even put an early **VirtuaMotion prototype** to work on the Gear Fest stage, bringing one of my own technical experiments into a production I'd already spent years helping shape.
 
-And in the **2025 VR Community Awards**, **[Gear Fest received the Curator Award for Large Event](https://www.vrcommunityawards.com/past-winners/)**. That recognition belongs to everyone who helped make the festival what it is. Being part of the team behind it, year after year, is something I'm genuinely proud of.
+And in the **2025 VR Community Awards**, **Gear Fest received the Curator Award for Large Event**. That recognition belongs to everyone who helped make the festival what it is. Being part of the team behind it, year after year, is something I'm genuinely proud of.
+
+**Links:** [2025 VR Community Award](https://www.vrcommunityawards.com/past-winners/) · [Gear Fest 2026 preview](https://www.youtube.com/watch?v=Y3qK_jRtZKc) · [Organizer interview](https://music.amazon.com/es-us/podcasts/dafa1c6c-e7df-4388-838f-802bcc27c511/episodes/93aca5aa-6f10-41d7-af80-b8a4eed9b540/noved-notes-turning-the-gears-to-make-an-impact-feat-dj-gear-bolt-and-skootaboss-noved-notes-ep-91)
 
 ### Gathering: worlds that only exist when we're together
 *Past events · ongoing creative history*
@@ -83,12 +91,16 @@ One especially memorable night was Gathering's **2025 New Year's Eve event in VR
 
 Along the way I've also been involved with **Paradise Lost, Ministry Promotions, RIFT_VR, VirtuaFest**, and other corners of the virtual event scene. Sometimes I'm working on stage systems; sometimes it's infrastructure or production planning. The part I remember isn't a job title. It's the moment the lights come on and the world fills with people.
 
+**Links:** [Gathering 2024 team credits](https://www.tgvr.org/team) · [Gathering: Adventure 2025](https://www.tgvr.org/lineup) · [VRChat NYE 2026 credits](https://wiki.vrchat.com/wiki/New_Years_Eve_2026)
+
 ### Sly Fest 2026: another world, another weekend
 *Festival development · completed event*
 
 I contributed development, implementation, and production-tooling support to **[Sly Fest 2026](https://slyfest.com/)**, the VR music festival that took place in October. Gathering put its own 2026 festival on pause to help support Sly Fest's production.
 
 It's one of the things I love about this scene: different teams and communities coming together to build something bigger than any one of them could have made alone.
+
+**Links:** [Sly Fest 2026 event](https://www.slyfest.com/event/slyfest-2026) · [Official festival epilogue](https://www.slyfest.com/blog/sly-fest-epilogue) · [Sly Fest on Bluesky](https://bsky.app/profile/slyfest.bsky.social)
 
 ## Still taking shape
 
@@ -125,8 +137,7 @@ Some of the more shareable pieces of the chaos:
 
 - **[Vee's Toolbox](https://github.com/vesturo/Vees-toolbox)** - My collection of oddly specific VRChat scripts and fixes. The repository description is *"me documenting my insanity's c:"*, which is probably the most accurate documentation I've ever written.
 - **[VRC Image Deployer](https://github.com/vesturo/vrc-image-deployer)** - My adaptation of VRChat's community image-loading example for hosting world images and posters through GitHub Pages.
-- **[VLAM VPM Package Converter](https://github.com/VirtuaLabs-online/VLAM_VPMPackageConverter)** - A VirtuaLabs utility for turning Unity asset folders into VPM-compatible packages.
-- **GroupSync / GSLink** - An earlier community tooling project exploring Discord-to-VRChat account linking, onboarding, and synchronization. Part of my older experiments rather than an active showcase.
+- **[GroupSync / GSLink](https://groupsync.link/)** - An earlier community tooling project exploring Discord-to-VRChat account linking, onboarding, and synchronization. Part of my older experiments rather than an active showcase. [Project FAQ](https://groupsync.link/index.php?page=faq) · [GitHub organization](https://github.com/GroupSync-VR)
 
 Most days the tools behind everything are some combination of **Unity, UdonSharp, C#, HLSL, Blender, JavaScript, Node.js, Python**, and whatever server-side glue is necessary to make the idea work.
 
@@ -143,6 +154,6 @@ Not everything here is finished, public, or sensible. Some things are experiment
 <div align="center">
   <a href="https://vesturo.eu">Website</a> · <a href="https://vesturo.eu/discord/">Discord</a> · <a href="https://github.com/vesturo">GitHub</a>
 
-  <p><sub>Built with &lt;3 somewhere between reality and virtuality.</sub></p><img src="https://cdn.bsky.app/img/banner/plain/did:plc:mtw7bfxqppedkursd6zlb537/bafkreidijejuhscieplhxmftx27x3pdyksnmhdfbvsbhi4sxbbyg4j45w4" alt="A lost wanderer in the realm of virtual dreams" width="100%" />
-  
+  <img src="https://cdn.bsky.app/img/banner/plain/did:plc:mtw7bfxqppedkursd6zlb537/bafkreidijejuhscieplhxmftx27x3pdyksnmhdfbvsbhi4sxbbyg4j45w4" alt="A lost wanderer in the realm of virtual dreams" width="100%" />
+  <p><sub>Built with &lt;3 somewhere between reality and virtuality.</sub></p>
 </div>
