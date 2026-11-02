@@ -3,8 +3,7 @@
   <p>29 · Autistic · Dragon girl · She/Her · Germany</p>  <a href="https://vesturo.eu"><img src="https://img.shields.io/badge/Website-vesturo.eu-242424?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://bsky.app/profile/vesturo.eu"><img src="https://img.shields.io/badge/Bluesky-vesturo.eu-242424?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
 <a href="https://x.com/ItsVeeVR"><img src="https://img.shields.io/badge/X-@ItsVeeVR-242424?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
-<a href="https://ko-fi.com/vesturo"><img src="https://img.shields.io/badge/Ko--fi-Support_my_work-242424?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
-  <img src="https://cdn.bsky.app/img/banner/plain/did:plc:mtw7bfxqppedkursd6zlb537/bafkreidijejuhscieplhxmftx27x3pdyksnmhdfbvsbhi4sxbbyg4j45w4" alt="A lost wanderer in the realm of virtual dreams" width="100%" />  
+<a href="https://ko-fi.com/vesturo"><img src="https://img.shields.io/badge/Ko--fi-Support_my_work-242424?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>  
 </div>
 
 ---
@@ -109,5 +108,7 @@ Not everything here is finished, public, or sensible. Some things are experiment
 
 <div align="center">
   <a href="https://vesturo.eu">Website</a> · <a href="https://vesturo.eu/discord/">Discord</a> · <a href="https://github.com/vesturo">GitHub</a>
-  <p><sub>Built with &lt;3 somewhere between reality and virtuality.</sub></p>
+  
+  <img src="https://cdn.bsky.app/img/banner/plain/did:plc:mtw7bfxqppedkursd6zlb537/bafkreidijejuhscieplhxmftx27x3pdyksnmhdfbvsbhi4sxbbyg4j45w4" alt="A lost wanderer in the realm of virtual dreams" width="100%" />
+<p><sub>Built with &lt;3 somewhere between reality and virtuality.</sub></p>
 </div>
