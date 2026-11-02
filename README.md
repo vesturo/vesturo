@@ -47,10 +47,10 @@ OmniSurface is my experimental VRChat AI system for entities that can navigate *
 
 Not everything I make is a complete world. Sometimes the interesting part is the ridiculous system hiding behind one small detail.
 
-- **Shaders, fog, and lighting — ongoing experiments.** Custom HLSL, stage fog, depth effects, stylized avatar lighting, and ways of making VRChat environments react to light without asking a standalone headset to perform miracles. I spend an unreasonable amount of time thinking about how shadows *feel*.
-- **VirtuaLabs Forest System — experimental tooling.** Procedural vegetation and large-scene rendering experiments, playing with LODs, culling, atlases, and how to make a dense environment feel alive without making the frame rate disappear.
-- **Candle Shrine — working cross-instance prototype.** An experiment in letting people light candles in separate VRChat instances and see a shared state. A tiny virtual ritual, held together by a much less tiny synchronization problem.
-- **Shared World Experience Framework — in development.** An attempt to stop rebuilding the same foundations for every world: entry sequences, audio routing, subtitles, localization, configuration, and the little bits of polish that make an experience feel intentional.
+- **Shaders, fog, and lighting: ongoing experiments.** Custom HLSL, stage fog, depth effects, stylized avatar lighting, and ways of making VRChat environments react to light without asking a standalone headset to perform miracles. I spend an unreasonable amount of time thinking about how shadows *feel*.
+- **VirtuaLabs Forest System: experimental tooling.** Procedural vegetation and large-scene rendering experiments, playing with LODs, culling, atlases, and how to make a dense environment feel alive without making the frame rate disappear.
+- **Candle Shrine: working cross-instance prototype.** An experiment in letting people light candles in separate VRChat instances and see a shared state. A tiny virtual ritual, held together by a much less tiny synchronization problem.
+- **Shared World Experience Framework: in development.** An attempt to stop rebuilding the same foundations for every world: entry sequences, audio routing, subtitles, localization, configuration, and the little bits of polish that make an experience feel intentional.
 
 A lot of these experiments never become standalone releases. They're still part of the journey, and they tend to find their way into something else eventually.
 
@@ -60,7 +60,7 @@ I've spent a good part of my life in virtual nightlife, where stages are made of
 
 Some of the things I'm proudest of weren't made for a repository. They were made for a crowd, a moment, or a performance that would only happen once.
 
-### SANCTUM & VirtuaMotion — ghosts in the machinery
+### SANCTUM & VirtuaMotion: ghosts in the machinery
 *Production-deployed technology · past collaboration*
 
 One of my longer-running obsessions is **VirtuaMotion**, an in-house motion-capture and performance system I've been building in one form or another since *Gathering: Beginnings* in 2024. The goal was to give performers more freedom to exist *inside* a virtual stage, rather than merely appear on a screen.
@@ -69,14 +69,14 @@ In **April 2026, VirtuaMotion reached its first full production deployment at [S
 
 I also worked on SANCTUM's scripting and technical implementation, including the period around its fifth-anniversary productions. It was a meeting of music, movement, theatrical spaces, and some particularly stubborn engineering problems—and a reminder of why I love building for virtual performance.
 
-### Sly Fest 2026 — another world, another weekend
+### Sly Fest 2026: another world, another weekend
 *Festival development · completed event*
 
 I contributed development, implementation, and production-tooling support to **[Sly Fest 2026](https://slyfest.com/)**, the VR music festival that took place in October. Gathering put its own 2026 festival on pause to help support Sly Fest's production.
 
 It's one of the things I love about this scene: different teams and communities coming together to build something bigger than any one of them could have made alone.
 
-### Gathering — worlds that only exist when we're together
+### Gathering: worlds that only exist when we're together
 *Past events · ongoing creative history*
 
 From **Gathering: Beginnings (2024)** to **Gathering: Adventure (2025)**, I've helped build the worlds and systems behind large-scale, multi-instance virtual events. That work has taken me through environment art, backend infrastructure, technical production, and the orchestration of a great many moving parts.
@@ -89,10 +89,10 @@ Along the way I've also been involved with **Paradise Lost, Ministry Promotions,
 
 Some of the more shareable pieces of the chaos:
 
-- **[Vee's Toolbox](https://github.com/vesturo/Vees-toolbox)** — My collection of oddly specific VRChat scripts and fixes. The repository description is *"me documenting my insanity's c:"*, which is probably the most accurate documentation I've ever written.
-- **[VRC Image Deployer](https://github.com/vesturo/vrc-image-deployer)** — My adaptation of VRChat's community image-loading example for hosting world images and posters through GitHub Pages.
-- **[VLAM VPM Package Converter](https://github.com/VirtuaLabs-online/VLAM_VPMPackageConverter)** — A VirtuaLabs utility for turning Unity asset folders into VPM-compatible packages.
-- **GroupSync / GSLink** — An earlier community tooling project exploring Discord-to-VRChat account linking, onboarding, and synchronization. Part of my older experiments rather than an active showcase.
+- **[Vee's Toolbox](https://github.com/vesturo/Vees-toolbox)** - My collection of oddly specific VRChat scripts and fixes. The repository description is *"me documenting my insanity's c:"*, which is probably the most accurate documentation I've ever written.
+- **[VRC Image Deployer](https://github.com/vesturo/vrc-image-deployer)** - My adaptation of VRChat's community image-loading example for hosting world images and posters through GitHub Pages.
+- **[VLAM VPM Package Converter](https://github.com/VirtuaLabs-online/VLAM_VPMPackageConverter)** - A VirtuaLabs utility for turning Unity asset folders into VPM-compatible packages.
+- **GroupSync / GSLink** - An earlier community tooling project exploring Discord-to-VRChat account linking, onboarding, and synchronization. Part of my older experiments rather than an active showcase.
 
 Most days the tools behind everything are some combination of **Unity, UdonSharp, C#, HLSL, Blender, JavaScript, Node.js, Python**, and whatever server-side glue is necessary to make the idea work.
 
